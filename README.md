@@ -2,6 +2,7 @@
 This workflow lets you search [ChatGPT](https://chatgpt.com/) with the question you input. 
 
 ![Alfred interface with light theme](include/search-example-light.png)
+
 ![Alfred interface with dark theme](include/search-example-dark.png)
 
 ## Download and Install
